@@ -15,9 +15,10 @@ If you're a public interest platform researcher, here are model data-sharing ter
 
 
 ## Contributing
-We welcome contributions from platform researchers, data privacy and security experts, online platforms, and others with relevant expertise. We welcoem
+We welcome contributions from platform researchers, data privacy and security experts, online platforms, and others with relevant expertise. 
 We encourage you to download and adapt these model terms, and to contribute adapted versions back to this repo.
-To contribute: Fork, branch, and submit PRs
+
+**To contribute**: Fork, branch, and submit PRs
 
 
 
